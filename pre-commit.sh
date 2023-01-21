@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # Rules
 # 1. Developer should only use company's provided email address.
